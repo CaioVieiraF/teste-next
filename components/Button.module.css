@@ -1,0 +1,17 @@
+
+.defaultBtn {
+    color: white;
+    border: 0;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    min-width: 10rem;
+    min-height: 2rem;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.6);
+    background: black;
+    border-radius: 2rem;
+}
+
+.defaultBtn:hover {
+    cursor: pointer;
+    background: #2a2a2a;
+}

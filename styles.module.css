@@ -1,0 +1,11 @@
+.content{
+    margin: auto;
+    border-radius: 2rem;
+    padding: 3rem;
+    display: flex;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.4);
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+}
